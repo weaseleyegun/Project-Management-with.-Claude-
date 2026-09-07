@@ -36,6 +36,8 @@ Claude Code 세션 아무 곳에서나 실행한다. **프로젝트 폴더가 �
 
 ```
 /plugin marketplace add weaseleyegun/Project-Management-with.-Claude-
+```
+```
 /plugin install pm-smartfactory
 ```
 
