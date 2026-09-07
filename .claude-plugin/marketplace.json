@@ -1,0 +1,13 @@
+{
+  "name": "pm-smartfactory-marketplace",
+  "owner": {
+    "name": "weaseleyegun"
+  },
+  "plugins": [
+    {
+      "name": "pm-smartfactory",
+      "source": "./",
+      "description": "IT/AI·스마트팩토리 프로젝트 관리 지침 — skill 10개 + 커맨드 3개 + CLAUDE.md 템플릿"
+    }
+  ]
+}

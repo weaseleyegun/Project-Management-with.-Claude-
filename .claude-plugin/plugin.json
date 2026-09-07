@@ -1,0 +1,10 @@
+{
+  "name": "pm-smartfactory",
+  "description": "IT/AI·스마트팩토리 프로젝트를 Claude Code로 관리하기 위한 PM/PL 보조 플러그인. 일정·요구사항·DB검증·회의록·산출물검수·리스크 절차를 skill로 제공한다.",
+  "version": "3.0.0",
+  "author": {
+    "name": "weaseleyegun"
+  },
+  "homepage": "https://github.com/weaseleyegun/Project-Management-with.-Claude-",
+  "keywords": ["project-management", "smart-factory", "wbs", "requirements", "korean"]
+}
