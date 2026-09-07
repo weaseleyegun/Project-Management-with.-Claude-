@@ -40,6 +40,7 @@ Claude Code 세션 아무 곳에서나 실행한다. **프로젝트 폴더가 �
 ```
 /plugin install pm-smartfactory
 ```
+scope 설정: user (전역)
 
 설치 확인:
 
